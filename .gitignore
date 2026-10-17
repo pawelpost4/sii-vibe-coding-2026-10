@@ -18,3 +18,5 @@ __pycache__/
 .agent-briefs/
 **/target/
 *.class
+# Playwright CLI output (may contain credentials)
+.playwright-cli/
